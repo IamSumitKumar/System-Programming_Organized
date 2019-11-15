@@ -1,0 +1,7 @@
+For Compiling LEX Program:
+(While using ubuntu)
+    1. Write lex program in a file file.l
+    2. Open Terminal and Navigate to the Directory where you have saved the file.
+    3. type lex file.l
+    4. type cc lex.yy.c -lfl 'or' gcc lex.yy.c -efl
+    5. type ./a.out.
