@@ -1,0 +1,8 @@
+For Compiling YACC Program:
+(In ubuntu using terminal, otherwise if on windows simply run on provided tool).
+    1. Write lex program in a file file.l and yacc in a file file.y
+    2. Open Terminal and Navigate to the Directory where you have saved the files.
+    3. type lex file.l
+    4. type yacc file.y
+    5. type cc lex.yy.c y.tab.h -ll
+    6. type ./a.out 
