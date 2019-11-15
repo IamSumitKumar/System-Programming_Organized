@@ -1,0 +1,4 @@
+I would like to learn Lex.
+I would like to learn Yac.
+I would like to learn everything about
+Compiler	except Logical.
